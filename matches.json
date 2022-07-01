@@ -8,12 +8,12 @@
     "Mandante":{
     "nome": "Brasil",
     "Forca": 5,
-    "Imagem": "TODO"
+    "Imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
    },
     "Visitante":{
     "nome": "Peru",
     "Forca": 3,
-    "Imagem": "TODO"
+    "Imagem": "https://www.bandeirasnacionais.com/data/flags/normal/pe.png"
    },  
   }
 ]
